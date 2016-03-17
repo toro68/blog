@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Tor Inge Jøssang
+title: Tor Inge Jøssang - blog
 email: tor.jossang@gmail.com
 description: >
-  Tor Inge Jøsang - blog
+  - Journalist
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.jossang.eu" # the base hostname & protocol for your site
